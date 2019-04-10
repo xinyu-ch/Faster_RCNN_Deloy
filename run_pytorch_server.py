@@ -364,8 +364,4 @@ if __name__ == '__main__':
     print("Please wait until server has fully started")
     args = parse_args()
     load_model(args)
-    app.run(
-      host='172.20.62.233',
-      port=5000,
-      debug=False
-    )
+    app.run()
