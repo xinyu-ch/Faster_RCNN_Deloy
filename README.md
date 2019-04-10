@@ -66,7 +66,9 @@ It will compile all the modules you need, including NMS, ROI_Pooing, ROI_Align a
 python run_pytorch_server.py
 ```
 此处需要训练好的faster R-CNN模型，如图
+
 ![在这里插入图片描述](https://github.com/xinyu-ch/ReadMePhoto/blob/master/QQ%E6%88%AA%E5%9B%BE20190410204131.png)
+
 运行效果如下：
 ![在这里插入图片描述](https://github.com/xinyu-ch/ReadMePhoto/blob/master/QQ%E6%88%AA%E5%9B%BE20190410204601.png)
 ## 客户端程序 simple_request.py
