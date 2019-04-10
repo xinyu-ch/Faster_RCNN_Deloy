@@ -1,0 +1,14 @@
+cython
+cffi
+opencv-python
+scipy
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
+flask
+pytorch
+torvision
+PIL
+numpy
